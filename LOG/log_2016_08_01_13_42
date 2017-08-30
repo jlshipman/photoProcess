@@ -1,0 +1,167 @@
+2016_08_01 13:42:51 info:  loglogNumcount: 5
+2016_08_01 13:42:51 info:  log count: 6
+2016_08_01 13:42:51 info:  start_time: 1470073371.75
+2016_08_01 13:42:51 info:  /scripts/photoProcess/TEMP/runCheck
+2016_08_01 13:42:51 info:  user name: root
+2016_08_01 13:42:51 info:  production
+2016_08_01 13:42:51 info:    photoFileMod
+2016_08_01 13:42:51 info:    sizeDir:  1
+2016_08_01 13:42:51 info:      t:  /Volumes/repository3/unprocessed/LRC-1923-B701_P-00427.tif
+2016_08_01 13:42:51 info:  	1 of 1
+2016_08_01 13:42:51 info:  		three decimal 
+2016_08_01 13:42:51 info:  			newTIFF:  LRC-1923-B701_P-00427.tif
+2016_08_01 13:42:51 info:  		hyphen 
+2016_08_01 13:42:51 info:  			oldTIFF:  LRC-1923-B701_P-00427.tif
+2016_08_01 13:42:51 info:  			newTIFF:  LRC-1923-B701_P-00427.tif
+2016_08_01 13:42:51 info:      t:  /Volumes/repository3/unprocessed/LRC-1923-B701_P-00427.tif
+2016_08_01 13:42:51 info:  1 of 1
+2016_08_01 13:42:51 info:      base:  LRC-1923-B701_P-00427.tif
+2016_08_01 13:42:51 info:        photo is properly named:  
+2016_08_01 13:42:51 info:        jpgFull:  /scripts/photoProcess/TEMP/Full/LRC-1923-B701_P-00427.jpg
+2016_08_01 13:42:51 info:        jpgThumb:  /scripts/photoProcess/TEMP/Thumb/LRC-1923-B701_P-00427.jpg
+2016_08_01 13:42:53 info:        resultFull:  0
+2016_08_01 13:42:54 info:        resultThumb:  0
+2016_08_01 13:42:54 info:   hostName:  photomsb.ndc.nasa.gov
+2016_08_01 13:42:55 info:      t:  /Volumes/repository3/unprocessed/LRC-1923-B701_P-00427.tif
+2016_08_01 13:42:55 info:  1 of 1
+2016_08_01 13:42:55 info:      base:  LRC-1923-B701_P-00427.tif
+2016_08_01 13:42:55 info:      dirPath:  /Volumes/repository3/unprocessed
+2016_08_01 13:42:55 info:        photo is properly named:  
+2016_08_01 13:42:55 info:        cssDirCk: archive1/photomsb.ndc.nasa.gov/mastered/1923/ck
+2016_08_01 13:42:55 info:        cssDirPic: archive1/photomsb.ndc.nasa.gov/mastered/1923/pic
+2016_08_01 13:42:55 info:        changed directory to: /Volumes/repository3/unprocessed
+2016_08_01 13:42:55 info:        chksumFilePath:  /scripts/photoProcess/TEMP/checksum/LRC-1923-B701_P-00427.ck
+2016_08_01 13:42:55 info:        check sum created  
+2016_08_01 13:42:55 info:        stage:  production
+2016_08_01 13:42:55 info:        local full path: /Volumes/repository3/unprocessed/LRC-1923-B701_P-00427.tif
+2016_08_01 13:42:55 info:        cssDirPic: archive1/photomsb.ndc.nasa.gov/mastered/1923/pic
+2016_08_01 13:42:57 info:        command:  /usr/local/bin/masmkdir -p archive1/photomsb.ndc.nasa.gov/mastered/1923/pic 2> /scripts/photoProcess/ERROR/cssErrorMkdir.txt
+2016_08_01 13:42:57 info:        cssFullPath: archive1/photomsb.ndc.nasa.gov/mastered/1923/pic/LRC-1923-B701_P-00427.tif
+2016_08_01 13:43:01 info:        command:  /usr/local/bin/masput - archive1/photomsb.ndc.nasa.gov/mastered/1923/pic/LRC-1923-B701_P-00427.tif 2> /scripts/photoProcess/ERROR/cssErrorCopyPic.txt < /Volumes/repository3/unprocessed/LRC-1923-B701_P-00427.tif
+2016_08_01 13:43:01 info:        chksumFilePath:  /scripts/photoProcess/TEMP/checksum/LRC-1923-B701_P-00427.ck
+2016_08_01 13:43:01 info:        cssDirCk:  archive1/photomsb.ndc.nasa.gov/mastered/1923/ck
+2016_08_01 13:43:03 info:        command:  /usr/local/bin/masmkdir -p archive1/photomsb.ndc.nasa.gov/mastered/1923/ck 2> /scripts/photoProcess/ERROR/cssErrorMkdir.txt
+2016_08_01 13:43:03 info:        cssCkFullPath: archive1/photomsb.ndc.nasa.gov/mastered/1923/ck/LRC-1923-B701_P-00427.ck
+2016_08_01 13:43:06 info:        command:  /usr/local/bin/masput - archive1/photomsb.ndc.nasa.gov/mastered/1923/ck/LRC-1923-B701_P-00427.ck 2> /scripts/photoProcess/ERROR/cssErrorCopyCK.txt < /scripts/photoProcess/TEMP/checksum/LRC-1923-B701_P-00427.ck
+2016_08_01 13:43:06 info:        result:  0
+2016_08_01 13:43:06 info:        cssDirCk: archive2/photomsb.ndc.nasa.gov/mastered/1923/ck
+2016_08_01 13:43:06 info:        cssDirPic: archive2/photomsb.ndc.nasa.gov/mastered/1923/pic
+2016_08_01 13:43:06 info:        changed directory to: /Volumes/repository3/unprocessed
+2016_08_01 13:43:06 info:        chksumFilePath:  /scripts/photoProcess/TEMP/checksum/LRC-1923-B701_P-00427.ck
+2016_08_01 13:43:06 info:        check sum created  
+2016_08_01 13:43:06 info:        stage:  production
+2016_08_01 13:43:06 info:        local full path: /Volumes/repository3/unprocessed/LRC-1923-B701_P-00427.tif
+2016_08_01 13:43:06 info:        cssDirPic: archive2/photomsb.ndc.nasa.gov/mastered/1923/pic
+2016_08_01 13:43:09 info:        command:  /usr/local/bin/masmkdir -p archive2/photomsb.ndc.nasa.gov/mastered/1923/pic 2> /scripts/photoProcess/ERROR/cssErrorMkdir.txt
+2016_08_01 13:43:09 info:        cssFullPath: archive2/photomsb.ndc.nasa.gov/mastered/1923/pic/LRC-1923-B701_P-00427.tif
+2016_08_01 13:43:12 info:        command:  /usr/local/bin/masput - archive2/photomsb.ndc.nasa.gov/mastered/1923/pic/LRC-1923-B701_P-00427.tif 2> /scripts/photoProcess/ERROR/cssErrorCopyPic.txt < /Volumes/repository3/unprocessed/LRC-1923-B701_P-00427.tif
+2016_08_01 13:43:12 info:        chksumFilePath:  /scripts/photoProcess/TEMP/checksum/LRC-1923-B701_P-00427.ck
+2016_08_01 13:43:12 info:        cssDirCk:  archive2/photomsb.ndc.nasa.gov/mastered/1923/ck
+2016_08_01 13:43:14 info:        command:  /usr/local/bin/masmkdir -p archive2/photomsb.ndc.nasa.gov/mastered/1923/ck 2> /scripts/photoProcess/ERROR/cssErrorMkdir.txt
+2016_08_01 13:43:14 info:        cssCkFullPath: archive2/photomsb.ndc.nasa.gov/mastered/1923/ck/LRC-1923-B701_P-00427.ck
+2016_08_01 13:43:17 info:        command:  /usr/local/bin/masput - archive2/photomsb.ndc.nasa.gov/mastered/1923/ck/LRC-1923-B701_P-00427.ck 2> /scripts/photoProcess/ERROR/cssErrorCopyCK.txt < /scripts/photoProcess/TEMP/checksum/LRC-1923-B701_P-00427.ck
+2016_08_01 13:43:17 info:        result:  0
+2016_08_01 13:43:17 info:      sizeDir:  1
+2016_08_01 13:43:17 info:      t:  /Volumes/repository3/unprocessed/LRC-1923-B701_P-00427.tif
+2016_08_01 13:43:17 info:  1 of 1
+2016_08_01 13:43:17 info:          base:  LRC-1923-B701_P-00427.tif
+2016_08_01 13:43:17 info:          dirPath:  /Volumes/repository3/unprocessed
+2016_08_01 13:43:17 info:          isRaw:  False
+2016_08_01 13:43:17 info:          photo is properly named:  
+2016_08_01 13:43:17 info:        processed
+2016_08_01 13:43:17 info:        year:  1923
+2016_08_01 13:43:17 info:        year:  1923
+2016_08_01 13:43:17 info:        for base:  LRC-1923-B701_P-00427.tif newPath:  /Volumes/repository2/mastered/1923/pic/LRC-1923-B701_P-00427.tif
+2016_08_01 13:43:17 info:        newLocalFullPathck:  /Volumes/repository2/mastered/1923/ck/LRC-1923-B701_P-00427.ck
+2016_08_01 13:43:17 info:        stage:  production
+2016_08_01 13:43:17 info:        src:  /Volumes/repository3/unprocessed/LRC-1923-B701_P-00427.tif
+2016_08_01 13:43:17 info:        dst:  /Volumes/repository2/mastered/1923/pic/LRC-1923-B701_P-00427.tif
+2016_08_01 13:43:17 info:        stage:  production
+2016_08_01 13:43:17 info:        archiveDir:  /scripts/photoProcess/TEMP/archive/
+2016_08_01 13:43:17 info:        temp:  /scripts/photoProcess/TEMP/
+2016_08_01 13:43:17 info:        
+2016_08_01 13:43:17 info:      Image  
+2016_08_01 13:43:17 info:      jpdDirFull:  /scripts/photoProcess/TEMP/Full
+2016_08_01 13:43:17 info:      t:  /scripts/photoProcess/TEMP/Full/LRC-1923-B701_P-00427.jpg
+2016_08_01 13:43:17 info:      comment:  
+file is modified 
+fileToCheck: /Volumes/photoRepository/source/noYear/R-LRC-1923-B701_P-00427.tif 
+fileToCheck: /Volumes/photoRepository/mastered/noYear/LRC-1923-B701_P-00427.tif 
+any modified file is updated
+2016_08_01 13:43:17 info:  file did not exist on repository or is a modified image
+2016_08_01 13:43:17 info:      image - full:  /scripts/photoProcess/TEMP/Full/LRC-1923-B701_P-00427.jpg
+2016_08_01 13:43:17 info:      src:  /scripts/photoProcess/TEMP/Full/LRC-1923-B701_P-00427.jpg
+2016_08_01 13:43:18 info:        errorCheck:  -1
+2016_08_01 13:43:18 info:        command:  /usr/bin/sudo -u ladmin /usr/bin/scp /scripts/photoProcess/TEMP/Full/LRC-1923-B701_P-00427.jpg msbwcup@lamp.larc.nasa.gov:/usr/local/web/htdocs/msbwc/photo/images 2> /scripts/photoProcess/TEMP/sshOutputFile.txt
+2016_08_01 13:43:18 info:        output:  ********************************************************************************
+                                    WARNING!
+
+This US Government computer is for authorized users only. By accessing this
+system you are consenting to complete monitoring with no expectation of privacy.
+Unauthorized access or use may subject you to disciplinary action and criminal
+prosecution.
+
+********************************************************************************
+                                   NOTICE!
+                Authentication has been converted to NCAD.
+Password used to access this server is now the same as your desktop NCAD password.
+
+********************************************************************************
+
+2016_08_01 13:43:18 info:        result:  0
+2016_08_01 13:43:18 info:      image - full:  /scripts/photoProcess/TEMP/Full/LRC-1923-B701_P-00427.jpg
+2016_08_01 13:43:18 info:        
+2016_08_01 13:43:18 info:      Thumb  
+2016_08_01 13:43:18 info:      jpdDirThumb:  /scripts/photoProcess/TEMP/Thumb
+2016_08_01 13:43:18 info:        errorCheck:  -1
+2016_08_01 13:43:18 info:        command:  /usr/bin/sudo -u ladmin /usr/bin/scp /scripts/photoProcess/TEMP/Thumb/LRC-1923-B701_P-00427.jpg msbwcup@lamp.larc.nasa.gov:/usr/local/web/htdocs/msbwc/photo/thumbs 2> /scripts/photoProcess/TEMP/sshOutputFile.txt
+2016_08_01 13:43:18 info:        output:  ********************************************************************************
+                                    WARNING!
+
+This US Government computer is for authorized users only. By accessing this
+system you are consenting to complete monitoring with no expectation of privacy.
+Unauthorized access or use may subject you to disciplinary action and criminal
+prosecution.
+
+********************************************************************************
+                                   NOTICE!
+                Authentication has been converted to NCAD.
+Password used to access this server is now the same as your desktop NCAD password.
+
+********************************************************************************
+
+2016_08_01 13:43:18 info:        result:  0
+2016_08_01 13:43:18 info:      image - thumb:  /scripts/photoProcess/TEMP/Thumb/LRC-1923-B701_P-00427.jpg
+2016_08_01 13:43:18 info:      files left in /scripts/photoProcess/TEMP/Full:  0
+2016_08_01 13:43:18 info:      files left in /scripts/photoProcess/TEMP/Thumb:  0
+2016_08_01 13:43:18 info:        cdName:  20160801134317
+2016_08_01 13:43:18 info:        webDir:  msbwc
+2016_08_01 13:43:18 info:        pathFin:  /usr/local/web/htdocs/msbwc/photo/images
+2016_08_01 13:43:18 info:        pathThumb:  /usr/local/web/htdocs/msbwc/photo/thumbs
+2016_08_01 13:43:18 info:        photoEmail:  brandon.c.poythress@nasa.gov
+2016_08_01 13:43:18 info:        key:  
+2016_08_01 13:43:18 info:        value:  5
+2016_08_01 13:43:18 info:        key:  NACA
+2016_08_01 13:43:18 info:        value:  3
+2016_08_01 13:43:18 info:        key:  L
+2016_08_01 13:43:18 info:        value:  1
+2016_08_01 13:43:18 info:        key:  Lalpha
+2016_08_01 13:43:18 info:        value:  7
+2016_08_01 13:43:18 info:        key:  LV
+2016_08_01 13:43:18 info:        value:  2
+2016_08_01 13:43:18 info:        key:  LCH
+2016_08_01 13:43:18 info:        value:  6
+2016_08_01 13:43:18 info:        j:  LRC-1923-B701_P-00427.jpg
+2016_08_01 13:43:18 info:        photo is properly named
+2016_08_01 13:43:18 info:        j:  LRC-1923-B701_P-00427.jpg
+2016_08_01 13:43:18 info:        raw:  False
+2016_08_01 13:43:18 info:        year:  1923
+2016_08_01 13:43:18 info:        type:  mastered
+2016_08_01 13:43:18 info:        seq:  00427
+2016_08_01 13:43:18 info:        noSuffix:  LRC-1923-B701_P-00427
+2016_08_01 13:43:18 info:        webname:  LRC-1923-B701_P-00427.jpg
+2016_08_01 13:43:18 info:        numberOfRows:  0
+2016_08_01 13:43:18 info:        existInDatabase:  False
+2016_08_01 13:43:18 info:        j:  LRC-1923-B701_P-00427.jpg
+2016_08_01 13:43:18 info:        cdName:  20160801134317
+2016_08_01 13:43:18 info:         line 439 --name  LRC-1923-B701_P-00427.jpg

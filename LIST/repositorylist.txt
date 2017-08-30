@@ -1,0 +1,2 @@
+original#/Volumes/photoRepository/source
+modified#/Volumes/photoRepository/mastered
