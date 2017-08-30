@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/jshipman/lib  
+[submodule "libPhoto"]
+	path = libPhoto
+	url = https://github.com/jshipman/libPhoto 
